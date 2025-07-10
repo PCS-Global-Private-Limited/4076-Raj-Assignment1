@@ -1,0 +1,11 @@
+.dashboard {
+  display: flex;
+  min-height: 100vh;
+  font-family: Arial, sans-serif;
+}
+
+.main-content {
+  flex: 1;
+  padding: 40px;
+  background: #f4f4f4;
+}
